@@ -13,12 +13,6 @@ export default {
   data() {
     return {};
   },
-  /*mounted() {
-    axios.get('https://openweathermap.org/api').then(response => {
-      console.log(response.data)
-      this.food = response.data
-    });
-  }*/
 };
 </script>
 
